@@ -11,7 +11,7 @@ Faço ciência da computação na Universidade Federal do Ceará(UFC)
 
 ### About me
 🎓 &nbsp; Fazendo graduação em ciência da computação
-<br/>🌱&nbsp; Estou estudando desenvolvimento web, com foco no front end, utilizando angular
+<br/>🌱&nbsp; Estou estudando desenvolvimento web, com foco no front end, utilizando angular  e react
 <br/>💡&nbsp; Tenho interesse em ciência da computação,jogos e esportes
 
 
